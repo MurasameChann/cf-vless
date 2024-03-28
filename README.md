@@ -11,6 +11,7 @@
 
 - zizifn：https://github.com/zizifn/edgetunnel
 - 3Kmfi6HP：https://github.com/3Kmfi6HP/EDtunnel
+- Misaka-blog：https://github.com/Misaka-blog/cf-wkrs-pages-vless
 
 ## 注意事项
 
